@@ -4,7 +4,7 @@
 
 > **Public demonstration:** All names, requests, tasks, statistics, and correspondence in this repository are synthetic. No Gmail, Calendar, Claude, or Gemini accounts are connected to this demo.
 
-![Trent Tracker+ dashboard](screenshots/dashboard.png)
+*Dashboard screenshots are available in the downloadable portfolio package; images have not yet been uploaded to this repository.*
 
 ## Overview
 
@@ -12,7 +12,7 @@ Trent Tracker+ was conceived in response to a practical operations problem: exec
 
 ## Try the demo
 
-**[Open interactive demo](https://USERNAME.github.io/trent-tracker-plus/)** — replace this placeholder after GitHub Pages is enabled.
+**[Open interactive demo](https://spenceb15.github.io/TrentTrackerPlus/)** (available after GitHub Pages is enabled).
 
 Alternatively, download `index.html` and open it locally in a browser. No install, server, API keys, or account are required. Changes made to the demo are stored in this browser's `localStorage`, not sent to a server. To reset, clear site data for this page.
 
@@ -50,10 +50,7 @@ The interactive UI and browser-state behavior are demonstrated in the provided f
 
 ## Screenshots
 
-| Dashboard | Inbox |
-| --- | --- |
-| ![Dashboard](screenshots/dashboard.png) | ![Inbox](screenshots/inbox.png) |
-| ![Replies](screenshots/replies.png) | ![Projects](screenshots/projects.png) |
+Screenshots from the sanitized demo will be added once image uploads are completed. The downloadable portfolio archive includes dashboard, inbox, projects, and replies previews.
 
 ## Author
 
