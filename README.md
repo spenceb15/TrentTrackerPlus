@@ -1,10 +1,14 @@
 # Trent Tracker+
 
-**An interactive executive task-management dashboard designed with AI assistance.**
+**An independently developed, self-funded executive task-management dashboard built with AI assistance.**
 
 > **Public demonstration:** All names, requests, tasks, statistics, and correspondence in this repository are synthetic. No Gmail, Calendar, Claude, or Gemini accounts are connected to this demo.
 
 *Dashboard screenshots are available in the downloadable portfolio package; images have not yet been uploaded to this repository.*
+
+## Project origin and ownership
+
+I created Trent Tracker+ as a personal project to help my father organize his executive workload. I developed it in my spare time and paid the project expenses myself; the company did not fund its development. Its use case is inspired by real business operations, but the public repository contains fictional demonstration data and no live company integrations. This describes the development circumstances, not a legal determination of intellectual-property ownership.
 
 ## Overview
 
@@ -54,8 +58,8 @@ Screenshots from the sanitized demo will be added once image uploads are complet
 
 ## Author
 
-Spencer Brown — project requirements, workflow design, AI direction, prototyping and evaluation.
+Spencer Brown — independent project initiator and self-funded developer; requirements, workflow design, AI direction, prototyping, and evaluation.
 
 ## License
 
-MIT. Before publishing, verify your employer has authorized public release of any work-developed intellectual property, even when sample data has been substituted.
+MIT. This was developed personally, outside paid work and without company funding, according to the project author. Employment confidentiality and IP obligations should still be reviewed before reuse or redistribution.
