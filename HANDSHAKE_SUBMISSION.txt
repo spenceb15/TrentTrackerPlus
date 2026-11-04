@@ -1,0 +1,16 @@
+HANDSHAKE AI SHOWCASE — TRENT TRACKER+
+
+TITLE
+Trent Tracker+ | AI-Assisted Executive Workflow Dashboard
+
+PROJECT URL
+https://github.com/spenceb15/TrentTrackerPlus
+
+DESCRIPTION (UNDER 500 CHARACTERS)
+Trent Tracker+ is an AI-assisted executive productivity dashboard designed to simplify project management, task tracking, and email-driven workflows. Built using HTML, CSS, JavaScript, and Claude, it features interactive dashboards, action items, decision tracking, inbox triage, and progress visualization. I directed the development process, translating real business challenges into functional software while prioritizing usability, privacy, and human oversight.
+
+MY ROLE
+Problem definition, product requirements, AI direction (Claude), workflow architecture, prototype evaluation and documentation.
+
+PROJECT STATUS
+Interactive standalone prototype. Planned live integrations are not included. No measured productivity impact claimed.
