@@ -1,0 +1,15 @@
+# Local secrets and environment files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials.json
+client_secret*.json
+# Private originals and temporary artifacts
+PRIVATE*/
+private/
+*.local.*
+.DS_Store
+__MACOSX/
+node_modules/
