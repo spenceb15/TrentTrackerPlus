@@ -1,5 +1,9 @@
 # Case Study — Trent Tracker+
 
+## Project origin
+
+I independently started and funded Trent Tracker+ in my spare time to help my father with a demanding executive workload. The company did not fund this personal development project. The intended user and business context informed the problem definition; the public demo uses fictional data and is disconnected from business accounts.
+
 ## Challenge
 
 A food-service operations executive faces fragmented project management across emails, scheduling information, notes, and decisions. The original project aimed to reduce the cognitive load of organizing incoming requests and tracking follow-through. The project owner estimated that email consumed many hours of the executive's day; that estimate was an initial problem statement, not a measured outcome.
